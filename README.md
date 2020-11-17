@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Liam-McCormack&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-McCormack&layout=compact&theme=algolia&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
